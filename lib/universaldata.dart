@@ -1,0 +1,30 @@
+class universaladata {
+  static String user_id = "";
+  static String empcode = "";
+  static String password = "";
+  static String Name = "";
+  static String BNAME = "";
+  static String COMP_NAME = "";
+  static String COMP_CODE = "";
+  static String shift = "";
+  static String temp = "";
+  static String setu_status = "";
+  static String lat = "";
+  static String long = "";
+  static String address = "";
+  static String BCODE = "";
+  static String tmode = "";
+  static String start_date = "";
+  static String end_date = "";
+  static String lev_reason = "";
+  static String lev_type = "";
+  static String reporting_pr = "";
+  static String days = "";
+  static String EMP_PHONE_NO = "";
+  static String BRANCH_NAME = "";
+  static String EMP_FIRST_NAME = "";
+  static String DEPT_NAME = "";
+  static String EMP_LANDLINE_NO = "";
+  static String EMP_PER_PHONE_NO = "";
+  static String EMP_EMAIL_ID = "";
+}
